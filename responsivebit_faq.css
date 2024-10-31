@@ -1,0 +1,13 @@
+.RBfaqs {
+	padding: 30px 18px 30px 18px;
+}
+
+.RBfaqs .RBquest {
+	border-bottom: 1px dashed #CCCCCC;
+	margin-bottom: 20px;
+	padding-bottom: 21px;
+}
+
+.RBfaqs strong {
+	font-weight: 800;
+}
